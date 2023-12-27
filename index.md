@@ -2,3 +2,8 @@
 
 ## Image of me
 ![Image of Yaktocat](https://github.com/ElazazyMohamed.png)
+
+## Add a code
+```
+print("Hello, World :)")
+```
